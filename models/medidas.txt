@@ -1,0 +1,28 @@
+Cylinder:
+Radio: 0,8
+Altura: 2,5
+
+Cylinder:
+Radio: 0,8
+Altura: 1,5
+
+Temple:
+1,5 x 1,5 x 1,8
+Afilar -0,41
+
+Maya temple:
+1,5 x 1,5 x 2,5
+Afilar -0,41
+
+Cake:
+1 x 1 x 1 x 1
+
+Giant Beam:
+0,8 x 0,8 x 3,04
+
+Brick:
+1,56 x 0,8 x 1,2
+
+Dorito:
+P: 1
+Radio: 2

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<pfdbunkertypeset id="PFDDefaultSet">
+    <pfdbunkertype>
+        <id>dorito</id>
+        <name>Dorito</name>
+        <model>models/dorito.DXF</model>
+        <icon>icons/dorito.jpg</icon>
+    </pfdbunkertype>
+    
+    <pfdbunkertype>
+        <id>cake</id>
+        <name>Cake</name>
+        <model>models/cake.DXF</model>
+        <icon>icons/cake.jpg</icon>
+    </pfdbunkertype>
+    
+    <pfdbunkertype>
+        <id>temple</id>
+        <name>Temple</name>
+        <model>models/temple.DXF</model>
+        <icon>icons/temple.jpg</icon>
+    </pfdbunkertype>
+</pfdbunkertypeset>

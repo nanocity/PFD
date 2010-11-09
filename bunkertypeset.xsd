@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="pfdbunkertypeset">
+		<xs:attribute name="id" type="xs:string"/>
+
+		<xs:element name="pfdbunkertype">
+			<xs:complexType>
+				<xs:all>
+					<xs:element name="id" type="xs:string"/>
+					<xs:element name="name" type="xs:string"/>
+					<xs:element name="model" type="xs:string"/>
+					<xs:element name="icon" type="xs:string"/>
+				</xs:all>
+			</xs:complexType>
+		</xs:element>
+
+	</xs:element>
+</xs:schema>
